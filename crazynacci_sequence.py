@@ -90,7 +90,8 @@ def stPrinter(n, shape, character, filled, fillCharacter= '*'):
                     print(end=" ") #fill with blank space, doesn't matter if its outside the triangle either
             print()
 
-stPrinter(30, 1, "J", True, "M")
+            #Test:
+# stPrinter(30, 1, "J", True, "M")
 
 
 
